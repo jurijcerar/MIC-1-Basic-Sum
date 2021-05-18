@@ -1,0 +1,13 @@
+You will need a MIC-1 simulator to run these files
+
+1. RV11 MIC_sum_horizontal
+Stores the sum of N numbers starting with the one on address 520. 
+N is stored in the address 512
+The sum will be stored in the address 256
+This program uses the horizontal MIC-1 architecture
+
+1. RV12 MIC_sum_vertical
+Stores the sum of N numbers starting with the one on address 516. 
+N is stored in the address 512
+The sum will be stored in the address 508
+This program uses the vertical MIC-1 architecture
